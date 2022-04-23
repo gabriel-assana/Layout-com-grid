@@ -11,7 +11,7 @@
 
 <div align="center">
    <p>
-          Projeto tem como principal objetivo a criação de uma página totalmente responsiva com animações e com a aplicação do layout grid.
+          Projeto tem como principal objetivo a criação de uma página totalmente responsiva com animações ao entra na pagina e ao passar o mouse sobre as imagens, sendo que as mesmas imagens estão organizadas com o layout grid.
   </p>
 
 </div>
