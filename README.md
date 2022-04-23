@@ -17,7 +17,7 @@
 </div>
   
   <div align="center"> 
-    <img src="images/layout-responsivo.gif" alt="logo"/>
+    <img src="images/layout-grid.gif" alt="logo"/>
   </div> 
     
   </br>
